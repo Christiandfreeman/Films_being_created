@@ -1,2 +1,2 @@
-# Thinkful-Capstone-1
+# Thinkful_Capstone_1
 First Thinkful Capstone
